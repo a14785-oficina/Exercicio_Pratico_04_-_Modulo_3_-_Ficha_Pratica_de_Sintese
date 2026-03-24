@@ -1,0 +1,4 @@
+Material	Quantidade
+------------------------------
+Cobre		110
+Rodrigo		1
