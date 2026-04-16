@@ -11,7 +11,7 @@
 
 import time, os, datetime
 
-# Clear screen (cross-platform)
+# Limpa o ecrâ (com "cls" ou "nt" para suporte entre sistemas diferentes)
 os.system("cls" if os.name == "nt" else "clear")
 
 # ORIENTAÇÕES PARA O DESENVOLVIMENTO
